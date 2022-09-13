@@ -1,3 +1,8 @@
+# Versão da Linguagem Python
+from platform import python_version
+print('Versão da Linguagem Python Usada Neste Jupyter Notebook:', python_version())
+
+
 # Exercício 1 - Imprima na tela os números de 1 a 10. Use uma lista para armazenar os números.
 # Exercício 2 - Crie uma lista de 5 objetos e imprima na tela
 # Exercício 3 - Crie duas strings e concatene as duas em uma terceira string
