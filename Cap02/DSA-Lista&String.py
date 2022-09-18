@@ -20,6 +20,8 @@ print('Versão da Linguagem Python Usada Neste Jupyter Notebook:', python_versio
 # Exercício 10 - Considere a string abaixo. Imprima na tela apenas os caracteres da posição 1 a 18.
 # frase = 'Cientista de Dados é o profissional mais sexy do século XXI'
 
+# Resultados
+
 # questão 1 
 lista= [1,2,3,4,5,6,7,8,9,10]
 print(lista)
